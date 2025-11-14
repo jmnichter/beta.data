@@ -22,3 +22,43 @@ A simplified, analytics-ready CSV version of Adventure Works sales data for:
 
 **Direct raw file URL (for Power BI Service imports):**
 
+https://raw.githubusercontent.com/jmnichter/beta.data/main/Adventure%20Works%20Sales%20Dataset.csv
+
+
+## 🛠 How to Use
+
+### **Power BI Desktop**
+1. Get Data → Text/CSV  
+2. Load the dataset  
+3. Build visualizations or semantic models  
+
+### **Power BI Service**
+1. Create → Semantic model  
+2. Choose **URL**  
+3. Paste the raw GitHub link  
+4. Load and begin analyzing  
+
+This method avoids OneDrive/SharePoint restrictions.
+
+## 🔧 Future Additions
+Planned expansions include:
+- Data cleaning challenges  
+- Additional Adventure Works tables  
+- Finance, supply chain, and manufacturing datasets  
+- Beta.data branded demo dashboards  
+- Realistic business scenario data packs  
+
+## 👤 Author
+Created by **Jacob Nichter**  
+Senior Process Engineer | Biotech Manufacturing & Analytics  
+
+This repository supports ongoing learning in:
+- Power BI  
+- Microsoft Fabric  
+- Data analytics  
+- Modern BI design principles  
+- Portfolio development  
+
+---
+
+If you have suggestions for additional datasets or structures to include, feel free to open an issue or contribute.
